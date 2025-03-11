@@ -1,2 +1,2 @@
-# Mobile-app-signup
+# mobile-app-signup
 Mobile app signup design in figma
